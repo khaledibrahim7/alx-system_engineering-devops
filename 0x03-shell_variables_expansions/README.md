@@ -1,1 +1,1 @@
-alias project
+create_global_variable
